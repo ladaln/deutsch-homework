@@ -9,4 +9,8 @@
   font-family: 'Raleway', sans-serif;
   border: none;
 }
+.wrapper{
+  margin: 0 auto;
+  width:250px;
+}
 
